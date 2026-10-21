@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.Iterator;
 
 /**
- * Collection集合的遍历
+ * Collection集合的遍历方式一：迭代器遍历
  */
 public class CollectionDemo03 {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class CollectionDemo03 {
         names.add("小汪");
 
         System.out.println(names);
- 
+
         Iterator<String> it = names.iterator();
 
         while (it.hasNext()) {
