@@ -38,7 +38,7 @@ code/
 
 - **例如**：新语法测试、功能小尝试、第三方库使用测试、自学框架小案例等。
 - **二级结构**：一个 Demo 一个文件夹，命名 `技术栈_主题_类型`（如 `vue2_admin_demo/`），扁平存放，数量多时按技术栈分层；Demo 不需 `src/res/report` 三件套，但建议写三五行 `README.md` 记录学什么与状态（`doing` / `done` / `abandoned`）。
-- 试水成功、决定做完整的 Demo 应**移动到 `projects/`** 并按项目规范归档。
+- 试水成功、决定做完整的 Demo 应**移动到 `projects/`** 并按项目规范归档。.
 - **详细使用规则见 [`personal_demos/README.md`](personal_demos/README.md)**。
 
 ### 3. `code/projects/` 课程设计 & 正式项目
